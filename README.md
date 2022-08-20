@@ -1,6 +1,6 @@
 # Project Title
 
-JPEG2000 conversion tool
+JPEG2000 Conversion Tool
 
 ## Description
 
